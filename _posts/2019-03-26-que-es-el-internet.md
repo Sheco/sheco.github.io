@@ -8,9 +8,7 @@ tags:
   - destacado
 ---
 
-El internet es una tecnologia que permite a las personas compartir contenido en un entorno compartido, donde todo el mundo puede compartir lo que quiera con cualquier persona del mundo sin importar las distancias.
-
-En este artículo, podras aprender sobre algunas particularidades del internet según mi experiencia en algunas areas un poco tecnicas.
+El internet es una tecnologia que permite a las personas compartir contenido en un entorno compartido, donde todo el mundo puede compartir lo que quiera con cualquier persona del mundo sin importar las distancias. En este artículo, podras aprender sobre algunas particularidades del internet según mi experiencia.
 
 Encontraras un resumen general de ciertas tendencias que ocurren tras bambalinas en los principales portales web.
 <!--more-->

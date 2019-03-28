@@ -4,9 +4,7 @@ title: "Mi Hijo Timido"
 tags:
   - familia
 ---
-Tengo un hijo que es muy especial, es un chico timido a quien le cuesta mucho trabajo tratar con otras personas, por lo que muchas veces prefiere jugar solo.
-
-En este articulo, voy a escribir de algunas de sus particularidades, para que lo podamos conocer mejor.
+Tengo un hijo que es muy especial, es un chico timido a quien le cuesta mucho trabajo tratar con otras personas, por lo que muchas veces prefiere jugar solo. En este articulo, voy a escribir de algunas de sus particularidades, para que lo podamos conocer mejor.
 
 <!--more-->
 
