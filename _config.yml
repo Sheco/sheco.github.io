@@ -23,6 +23,9 @@ description: Blog con información con altas dosis de opinión personal sobre di
 
 # List of links in the navigation bar
 navbar-links:
+  Contenido:
+    - Destacado: ''
+    - Todo: blog/
   Acerca de mí: "acercademi"
 
 # Image to show in the navigation bar - image must be a square (width = height)
