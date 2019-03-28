@@ -8,11 +8,11 @@ tags:
   - destacado
 ---
 
-Hoy en día hay millones de sitios web y cientos de sitios en donde tenemos que crear una cuenta, lo que significa recordar nuestros usuarios y nuestras contraseñas. En este articulo platicare sobre mi experiencia y mi opinión al respecto.
+Hoy en día hay millones de sitios web y cientos de sitios en donde tenemos que crear una cuenta, lo que significa recordar nuestros usuarios y nuestras contraseñas. 
 
 Estas credenciales son lo que protege nuestra identidad y nuestros datos en Internet, es importante que las cuidemos bien.
 
-
+En este articulo platicare sobre mi experiencia y mi opinión al respecto.
 <!--more-->
 
 ## Seguridad contra conveniencia
