@@ -15,7 +15,7 @@ Estas credenciales son lo que protege nuestra identidad y nuestros datos en Inte
 
 <!--more-->
 
-# Seguridad contra conveniencia
+## Seguridad contra conveniencia
 
 Muchas veces encontraran una lucha constante entre la seguridad y la conveniencia, no se puede tener los dos y a veces tenemos que sacrificar un poco de una para obtener mas de la otra.
 
@@ -29,7 +29,7 @@ Por ejemplo, los seguros de las puertas de nuestras casas, ofrecen cierto nivel 
 
 Mientras mas segura la cerradura, mas inconveniente puede llegar a ser.
 
-# Una contraseña personal
+## Una contraseña personal
 
 La practica mas común cuando necesitamos crear una cuenta, es usar la misma contraseña que usamos en todos los sitios, esta contraseña se vuelve tan memorable que no nos resulta muy sencillo considerarla **nuestra** contraseña, al punto que llega a tener cierto valor emocional.
 
@@ -37,13 +37,13 @@ Cambiar de contraseña implica tener que memorizar algo nuevo, lo cual es un esf
 
 El problema con esta estrategia es que si un sitio almacena tu contraseña de una manera insegura, actores maliciosos podrán leerla y con esto podrían tener acceso a tus cuentas en muchos sitios, te pueden hackear fácilmente.
 
-# Notas físicas
+## Notas físicas
 
 Otra practica insegura muy común es apuntar nuestras contraseñas en alguna libreta o incluso en notas post-it y las pegamos junto a nuestras computadoras.
 
 Esto es útil para que no se nos olviden las contraseñas pero estamos publicando este pedazo de información que debería ser completamente privado y personal, no es buena idea.
 
-# Otros esquemas de seguridad
+## Otros esquemas de seguridad
 
 Algunas personas tienen diferentes esquemas de seguridad para sus contraseñas.
 
@@ -56,7 +56,7 @@ Por ejemplo, algunas personas usan niveles de importancia para catalogar sus con
 
     Esto es un buen avance, pero aun así significa que tenemos que memorizar diferentes contraseñas y tenemos una capacidad limitada.
 
-# Administradores de secretos
+## Administradores de secretos
 
 Yo particularmente llevo años dependiendo de administradores de secretos, los cuales son aplicaciones que guardan una base de datos encriptada, la cual solo puede ser abierta por una contraseña maestra, personal, la cual nunca sera escrita ni divulgada.
 
@@ -74,6 +74,6 @@ El administrador de secretos que uso actualmente es KeePass, Kee es un juego de 
 
 Cabe mencionar que personalmente cambio la manera de escribir el nombre de la aplicación y prefiero pensar que la aplicación se llama KeepAss, lo cual en Español significaría algo así como "Cuida-culo", lo cual no es del todo equivocado.
 
-# Guia de KeepAss
+## Guia de KeepAss
 
 En en el futuro escribiré sobre esta herramienta, un tutorial para hacer que esta sea mas accesible al publico en general, porque honestamente puede ser un poco abrumadora al principio.

@@ -8,7 +8,7 @@ Tengo un hijo que es muy especial, es un chico timido a quien le cuesta mucho tr
 
 <!--more-->
 
-# Emocional
+## Emocional
 
 El es un chico emocional, le cuesta trabajo controlar sus emociones, lo que significa que cuando esta feliz, desborda de felicidad, cuando esta triste, lo apachurra la tristeza y cuando esta enojado explota con ira.
 
@@ -20,7 +20,7 @@ Le gusta hacer las cosas bien, a su manera, le apasiona aprender las cosas por s
 
 En su mente, cuando hace algo, fantasea que lo esta haciendo excepcionalmente bien, se imagina a la gente felicitandolo por su creatividad, el es centro de la atención... desafortunadamente sus maneras son frecuentemente poco ortodoxas y por lo tanto no tan bien recibidas por su publico, lo cual desata una gigante ola de frustración.
 
-# Timido e introvertido
+## Timido e introvertido
 
 Ante todo, es un niño timido e introvertido, tranquilo e innocente.
 
