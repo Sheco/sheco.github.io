@@ -4,14 +4,13 @@ title: Sheco
 subtitle: Padre de familia y entusiasta de cosas raras.
 use-site-title: true
 ---
-
 <ul class="nav nav-pills">
-  <li class="active"><a href="/">Contenido destacado</a></li>
-  <li><a href="/blog">Todo el contenido</a></li>
+  <li><a href="/">Contenido destacado</a></li>
+  <li class="active"><a href="/blog">Todo el contenido</a></li>
 </ul>
 
 <div class="posts-list">
-  {% for post in site.tags.destacado %}
+  {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -61,3 +60,17 @@ use-site-title: true
   {% endfor %}
 </div>
 
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
