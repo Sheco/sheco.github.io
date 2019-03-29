@@ -5,6 +5,7 @@ author: Sergio Durán
 tags: 
   - opinión
   - tecnología
+categories:
   - destacado
 ---
 

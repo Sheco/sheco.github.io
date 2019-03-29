@@ -5,6 +5,7 @@ tags:
   - opinión
   - tecnología
   - seguridad
+categories:
   - destacado
 ---
 

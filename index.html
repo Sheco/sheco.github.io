@@ -5,7 +5,7 @@ subtitle: Información variada y pensamientos locos.
 ---
 
 <div class="posts-list">
-  {% for post in site.tags.destacado %}
+  {% for post in site.categories.destacado %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
