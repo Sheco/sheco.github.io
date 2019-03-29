@@ -31,7 +31,7 @@ Mientras mas segura la cerradura, mas inconveniente puede llegar a ser.
 
 ## Una contraseña personal
 
-La practica mas común cuando necesitamos crear una cuenta, es usar la misma contraseña que usamos en todos los sitios, esta contraseña se vuelve tan memorable que no nos resulta muy sencillo considerarla **nuestra** contraseña, al punto que llega a tener cierto valor emocional.
+La practica mas común cuando necesitamos crear una cuenta, es usar la misma contraseña que usamos en todos los sitios, esta contraseña se vuelve tan memorable que no nos resulta muy difícil considerarla **nuestra** contraseña, al punto que llega a tener cierto valor emocional.
 
 Cambiar de contraseña implica tener que memorizar algo nuevo, lo cual es un esfuerzo considerable y una tarea que para muchos puede parecer tediosa e innecesaria.
 
@@ -72,7 +72,7 @@ Puede ser una contraseña de 20 caracteres y no me preocupa ni un poquito.
 
 El administrador de secretos que uso actualmente es KeePass, Kee es un juego de palabras fonético, de Key que significa llave en ingles, por lo que la aplicación se llama algo así como "Pase de llaves"
 
-Cabe mencionar que personalmente cambio la manera de escribir el nombre de la aplicación y prefiero pensar que la aplicación se llama KeepAss, lo cual en Español significaría algo así como "Cuida-culo", lo cual no es del todo equivocado.
+Cabe mencionar que personalmente cambio la manera de escribir el nombre de la aplicación y prefiero pensar que la aplicación se llama KeepAss, lo cual en Español significaría algo así como "Cuida-culo".
 
 ## Guia de KeepAss
 
