@@ -23,9 +23,8 @@ description: Blog con información con altas dosis de opinión personal sobre di
 
 # List of links in the navigation bar
 navbar-links:
-  Contenido:
-    - Destacado: ''
-    - Todo: blog/
+  Ver:
+    - Todo el contenido: blog/
     - Etiquetas: tags/
   Acerca de mí: "acercademi"
 
