@@ -3,7 +3,6 @@ layout: post
 title: "¿Qué es el Internet?"
 author: Sergio Durán
 tags: 
-  - opinión
   - tecnología
 categories:
   - destacado

@@ -2,7 +2,6 @@
 layout: post
 title: "Manejo moderno de secretos"
 tags:
-  - opinión
   - tecnología
   - seguridad
 categories:
